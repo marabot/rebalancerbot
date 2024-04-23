@@ -1,0 +1,28 @@
+{
+  "name": "rebalancerbot",
+  "version": "1.0.0",
+  "description": "balancing assets on DEX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marabot/rebalancerbot.git"
+  },
+  "keywords": [
+    "crypto",
+    "assets",
+    "balancer"
+  ],
+  "author": "marabot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marabot/rebalancerbot/issues"
+  },
+  "homepage": "https://github.com/marabot/rebalancerbot#readme",
+  "dependencies": {
+    "ccxt": "^4.3.5",
+    "dotenv": "^16.4.5"
+  }
+}
